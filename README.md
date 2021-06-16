@@ -2,4 +2,4 @@
 Janggi - Traditional South Korean Board Game with GUI using PyGame
 
 
-![hippo](https://giphy.com/gifs/bfiyn8SRuXeaRamyjC)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
