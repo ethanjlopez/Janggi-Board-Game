@@ -39,8 +39,7 @@ def main():
     while running:
         for e in p.event.get(): # go through these events 
             if e.type == p.QUIT:
-                p.quit()
-                running == False
+                running = False
             elif e.type == p.MOUSEBUTTONDOWN:
                 location = p.mouse.get_pos()
                 col = ((location[0]+30)//SQ_SIZE) - 1
